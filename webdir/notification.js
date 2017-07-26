@@ -1,7 +1,7 @@
 // Setup
 
 var http = require("http");
-var port = 9000;
+var port = 3000;
 var qs = require("querystring");
 var stringBuilder = require("stringbuilder");
 var md5 = require("blueimp-md5");
